@@ -1,0 +1,16 @@
+1. Implement a drag and drop functionality using HTML, CSS, and JavaScript.
+   => Completed
+2. Create two containers (e.g., div elements) side by side on the page.
+   => two dotted boder containers
+3. Populate the first container with a list of items (e.g., images, text, or icons).
+   => it consists of 4 different texts assemble them and make a sentence.
+4. Allow users to drag and drop items from the first container to the second container.
+   => User can do it
+5. Provide visual feedback during dragging (e.g., change the appearance of the dragged item).
+   => it becomes a light means less opacity
+6. When an item is dropped into the second container, display a success message or update the UI in any appropriate way.
+   => alert message comes Item "added successfully!"
+7. Add a reset button to clear the second container and reset the first container to its original state.
+   => Red color reset button
+
+i use everything simple and plane and completed in 1 hour or less then
